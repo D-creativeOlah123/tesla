@@ -98,7 +98,7 @@ nav .links, nav .icons {
     gap: 10px;
 }
 #one {
-    background-image: url(../../Documents/aaaaaa.jpeg);
+    background-image: url(./aaaaaa.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -108,7 +108,7 @@ nav .links, nav .icons {
     padding-top: 50px;
 }
 #two {
-    background-image: url(../../Documents/bbbbbb.jfif);
+    background-image: url(./bbbbbb.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -119,7 +119,7 @@ nav .links, nav .icons {
     padding-top: 50px;
 }
 #three {
-    background-image: url(../../Documents/ccccc.jfif);
+    background-image: url(./ccccc.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -131,7 +131,7 @@ nav .links, nav .icons {
     
 }
 #four {
-    background-image: url(../../Documents/ddddd.jfif);
+    background-image: url(./ddddd.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -141,7 +141,7 @@ nav .links, nav .icons {
     padding-top: 50px;
 }
 #five {
-    background-image: url(../../Documents/eeee.jfif);
+    background-image: url(.eeee.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -170,7 +170,7 @@ img {
 
 
 .panel {
-    background-image: url(../../Documents/fffff1.jfif);
+    background-image: url(./fffff1.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -181,7 +181,7 @@ img {
 
 }
 .roof {
-    background-image: url(../../Documents/fffff2.jfif);
+    background-image: url(./fffff2.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -192,7 +192,7 @@ img {
 
 }
 #hhhh {
-    background-image: url(../../Documents/hhhh.jfif);
+    background-image: url(./hhhh.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -206,7 +206,7 @@ img {
 
 
 #seven {
-    background-image: url(../../Documents/ggggggggg.jfif);
+    background-image: url(./ggggggggg.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -227,7 +227,7 @@ img {
 }
 
 video {
-     background: url(../../Downloads/tesla\ vd.webm);
+     background: url(./tesla\ vd.webm);
      background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
